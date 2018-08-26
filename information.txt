@@ -12,4 +12,7 @@
 		-> KRS
 		-> Jadwal Kuliah
 
-   
+   	->	fitur
+		-> PMB
+		-> Mahasiswa
+		-> 
