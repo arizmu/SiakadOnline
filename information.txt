@@ -1,0 +1,15 @@
+	database 
+
+	->	Master data
+		-> fakultas
+		-> Jurusan
+		-> Mahasiswa
+		-> Dosen
+		-> Matakuliah
+		->
+	->	Transaksi
+		-> KHS
+		-> KRS
+		-> Jadwal Kuliah
+
+   
